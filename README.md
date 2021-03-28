@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=horlamedhey&show_icons=true&locale=en" alt="horlamedhey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horlamedhey&" alt="horlamedhey" /></p>
+
+<p><img alt="Code Time" src="https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1023?logoColor=dark%26project=All%26recentMS=NaN%26showProject=false" /></p>
