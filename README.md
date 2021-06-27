@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Yourfootprint](https://beta.yourfootprint.app)
 
-- 💬 Ask me about **React, Vue, Nuxt, GraphQL, Flutter, NodeJs, NestJs, Typescript**
+- 💬 Ask me about **React, Vue, Nuxt, GraphQL, Flutter, NodeJs, NestJs, Typescript**.
 
 - 📫 How to reach me **Gafarolamide.ajao@gmail.com**
 
