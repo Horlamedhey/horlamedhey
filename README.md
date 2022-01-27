@@ -35,6 +35,6 @@
 ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1023?logoColor=white%26project=%26recentMS=0%26showProject=false)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horlamedhey&show_icons=true&locale=en&layout=compact" alt="horlamedhey" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=horlamedhey&show_icons=true&locale=en" alt="horlamedhey" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=horlamedhey&show_icons=true&locale=en" alt="horlamedhey"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horlamedhey&" alt="horlamedhey" /></p>
