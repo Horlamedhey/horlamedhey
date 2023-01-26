@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [de Bijenkorf](https://www.debijenkorf.nl/)
 
-- 💬 Ask me about **React, Vue, Nuxt, GraphQL, Flutter, NodeJs, NestJs, Typescript**
+- 💬 Ask me about **React, Vue, Nuxt, ReactJs, NextJs, Svelte, GraphQL, Flutter, NodeJs, NestJs, Typescript**
 
 - 📫 How to reach me **Gafarolamide.ajao@gmail.com**
 
