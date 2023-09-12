@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horlamedhey&show_icons=true&locale=en&layout=compact" alt="horlamedhey" /></p>
 
-![Abdulgafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=horlamedhey&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horlamedhey&" alt="horlamedhey" /></p>
+
+![Abdulgafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=horlamedhey&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
