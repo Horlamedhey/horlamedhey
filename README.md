@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/horlamedhey" target="blank"><img src="https://img.shields.io/twitter/follow/horlamedhey?logo=twitter&style=for-the-badge" alt="horlamedhey" /></a> </p>
 
-- 🔭 I’m currently working on [de Bijenkorf](https://www.debijenkorf.nl/)
+- 🔭 I’m currently working on [Wovar](https://www.wovar.nl/)
 
 - 💬 Ask me about **React, Vue, Nuxt, ReactJs, NextJs, Svelte, GraphQL, Flutter, NodeJs, NestJs, Typescript**
 
